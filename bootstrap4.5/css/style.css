@@ -1,0 +1,68 @@
+body {
+}
+.title {
+	max-width: 800px!important;
+	margin: auto!important;
+	text-align: center!important;
+	margin-top: 30px!important;
+	padding: 7px!important;
+}
+.areaAlertInfo {
+	max-width: 800px!important;
+	margin: auto!important;
+	text-align: center!important;
+	text-indent: 20px!important;
+	font-style: unset!important;
+	font-weight: 500!important;
+	font-size: small!important;
+	padding: 7px!important;
+}
+.areaFormAdicionarProdutos {
+	max-width: 800px!important;
+	margin: auto!important;
+	padding: 7px!important;
+}
+label {
+	font-style: unset!important;
+	font-size: large!important;
+	font-weight: 500!important;
+	color: #676767!important;
+	font-family: unset!important;
+}
+input {
+	border:1px solid #ccc!important;
+	border-color: #ccc!important; 
+}
+a {
+	text-decoration: none!important;
+	font-size: small!important;
+	font-style: unset!important;
+	font-weight: 500!important;
+}
+a:hover {
+	transition: 0.2s all linear!important;
+	text-overflow: underline!important;
+	text-decoration: underline!important;
+	text-align: left!important;
+}
+.areaSelectProdutos {
+	max-width: 1200px!important;
+	margin: auto!important;
+	padding: 7px!important;
+}
+.alertSuccess {
+	background-color: green!important;
+	border:1px solid green!important;;
+	border-color: green!important;
+	transition: 0.3s all linear!important;
+	font-style: unset!important;
+	font-weight: 500!important;
+}
+.alertDanger {
+	background-color: red!important;
+	border:1px solid red!important;;
+	border-color: red!important;
+	transition: 0.3s all linear!important;
+	font-style: unset!important;
+	font-weight: 500!important;
+}
